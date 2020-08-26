@@ -25,7 +25,7 @@ i3-gaps config
 - spotify
 - htop
 
-Notes:
+### Notes:
 Follow install on either i3-gaps or i3-gaps simple install, most info on setup can be found there.
 
 Create local config file
