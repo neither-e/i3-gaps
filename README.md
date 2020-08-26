@@ -36,6 +36,10 @@ Create Wallpapers directory
 ```
 $ mkdir ~/Pictures/Wallpapers
 ```
+After installing i3blocks, create i3blocks config file and copy config file over.
+```
+$ sudo touch ~/.config/i3/i3blocks.conf
+```
 
 
  
