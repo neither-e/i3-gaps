@@ -14,11 +14,12 @@ i3-gaps config
 - ly 
   + https://github.com/nullgemm/ly
 
-### Required Packages
+### Packages
 - i3-gaps
 - i3blocks
 - i3lock
 - i3status
+- ly
 - feh
 - brightnessctl
 - pactl
